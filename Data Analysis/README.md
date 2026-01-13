@@ -241,6 +241,5 @@ Early quarters focused on higher-probability deals, while later quarters reflect
 
 ## ✅ Summary
 
-This analysis highlights how performance varies across teams, individuals, products, and sectors.  
-It shows that efficiency, not just volume, plays a major role in long-term sales success.
+This analysis highlights how performance varies across teams, individuals, products, and sectors. It shows that efficiency, not just volume, plays a major role in long-term sales success.
 
