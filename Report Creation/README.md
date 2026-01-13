@@ -47,7 +47,7 @@ This page delivers a high-level snapshot of overall sales performance.
 - **Regional Sales Distribution**  
   Shows how performance varies across regions, helping uncover growth opportunities.
 
-![Overview](https://github.com/Parthadee/crm-sales-opportunities-analysis/blob/f92224abcbfd7d30d6c4401eed3c9e6ef5066be4/assets/CRM_sales1.jpg)
+![Overview](https://github.com/Parthadee/crm_sales_analysis/blob/de3f17c9b6af44eaff70aa1afd54bf121b84bcaf/assets/CRM_sales1.jpg)
 
 ---
 
@@ -75,7 +75,7 @@ This page focuses on understanding product-level performance.
 - **Price Difference Analysis**  
   Shows variance between suggested retail price and actual sales price, helping assess pricing strategy and competitiveness.
 
-![Products](https://github.com/Parthadee/crm-sales-opportunities-analysis/blob/f92224abcbfd7d30d6c4401eed3c9e6ef5066be4/assets/CRM_sales2.jpg)
+![Products](https://github.com/Parthadee/crm_sales_analysis/blob/9dee5109be20c822f41b2b0afc410a8f11a8ce65/assets/CRM_sales2.jpg)
 
 ---
 
@@ -107,7 +107,7 @@ This page evaluates performance across markets, sectors, and geographies.
 
 This helps identify key clients and upsell or cross-sell opportunities.
 
-![Market Reach](https://github.com/Parthadee/crm-sales-opportunities-analysis/blob/f92224abcbfd7d30d6c4401eed3c9e6ef5066be4/assets/CRM_sales3.jpg)
+![Market Reach](https://github.com/Parthadee/crm_sales_analysis/blob/9dee5109be20c822f41b2b0afc410a8f11a8ce65/assets/CRM_sales3.jpg)
 
 ---
 
@@ -132,7 +132,7 @@ This page analyzes team and individual performance across the organization.
 
 These views support targeted coaching and performance management.
 
-![Sales Teams](https://github.com/Parthadee/crm-sales-opportunities-analysis/blob/f92224abcbfd7d30d6c4401eed3c9e6ef5066be4/assets/CRM_sales4.jpg)
+![Sales Teams](https://github.com/Parthadee/crm_sales_analysis/blob/9dee5109be20c822f41b2b0afc410a8f11a8ce65/assets/CRM_sales4.jpg)
 
 ---
 
