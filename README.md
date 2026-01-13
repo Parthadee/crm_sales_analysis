@@ -43,6 +43,6 @@ The main goals of this project are:
 
 > ⚠️ Note: Numbers may vary depending on your browser’s regional settings. The report was designed with US settings in mind.  
 
-![CRM Sales Opportunities](https://github.com/Parthadee/crm-sales-opportunities-analysis/blob/443f0eac043d7a00b94c59437fef8c42609bf5c6/assets/CRM_sales1.jpg)
+![CRM Sales Opportunities](https://github.com/Parthadee/crm_sales_analysis/blob/de3f17c9b6af44eaff70aa1afd54bf121b84bcaf/assets/CRM_sales1.jpg)
 
 
