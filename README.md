@@ -1,4 +1,4 @@
-# CRM Sales Opportunities Analysis Using SQL & Power BI
+# CRM Sales Opportunities Analysis
 
 ## About This Project
 
@@ -35,9 +35,18 @@ The main goals of this project are:
   - Quarterly Trends  
   - Product Win Rates  
   - Sector Performance  
-  - Sales Cycle Duration  
+  - Sales Cycle Duration
+ 
+### 4. Tools:
+**Tools & Technologies:**
+- Python,
+- Libraries ( Panda, Numpy, Matplotlib, Seaborn)
+- Oracle SQL,
+- Power BI,
+- DAX,
+- Excel
 
-### 4. Reporting
+### 5. Reporting
 - **Power BI Dashboard:** Built an interactive report to visualize insights.  
 - **View Report:** [Interactive Power BI Report](https://app.powerbi.com/reportEmbed?reportId=c01074e6-2811-41a5-8736-33486df801fe&autoAuth=true&ctid=cee18ad4-7504-4bb9-b7ed-2db5cc6a3828&actionBarEnabled=true)  
 
